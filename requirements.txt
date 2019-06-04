@@ -1,0 +1,2 @@
+#heroku
+-r webapp/requirements/local.txt
