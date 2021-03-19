@@ -11,7 +11,7 @@ setuptools
 ##TESTING
 coverage
 ####
-djangorestframework==3.9.1
+djangorestframework==3.11.2
 autopep8==1.4.2
 beautifulsoup4==4.6.1
 django-appconf==1.0.2
