@@ -36,7 +36,7 @@ pyOpenSSL==18.0.0
 python-telegram-bot==10.1.0
 requests==2.19.1
 selenium==3.14.0
-urllib3==1.23
+urllib3==1.26.5
 django-bootstrap4
 django-crispy-forms
 django-heroku
